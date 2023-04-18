@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://sjunkins.files.wordpress.com/2012/04/the-best-top-desktop-hd-dark-black-wallpapers-dark-black-wallpaper-dark-background-dark-wallpaper-23.jpg?w=900);
+    align-items: center;
+    margin-top: 250px;
+}
+.container{
+    width: 300px;
+    height: 150px;
+    background-color: #0c0c0c;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+
+.login{
+    background-color: #0c0c0c;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 200px;
+    padding: 5px 5px;
+    margin-left: 5px;
+}
+
+
+
+
+
